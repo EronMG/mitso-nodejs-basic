@@ -1,4 +1,4 @@
-const rename = async () => {
+const rename = async() => {
     // Write your code here 
 };
 
